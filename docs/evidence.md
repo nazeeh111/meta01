@@ -39,7 +39,9 @@ skills/01/agents/openai.yaml
 f1fbf057cd8e3acee7e031f63c92282cf025dcfb3d82b2538a76baebb00435cf
 ```
 
-Clean remote installation and full desktop routing were outside that independent review. Source inspection and package validation do not establish those runtime outcomes.
+After publication, the maintainer used Codex's native Skill Installer to download commit `64884520e9a7a5eaacadfb63dafccffcc9b02903` into a fresh temporary destination. Both runtime files matched the reviewed SHA-256 values above. This verifies the clean remote download/copy route; desktop activation remains untested.
+
+A separate fresh-context Sol/medium authored research task explicitly invoked only 01. It selected the installed Research guidance, investigated privacy-preserving room occupancy sensing, distinguished presence from headcount, checked manufacturer methods and produced a useful mechanism-level counterexample and qualified next experiment. No hardware was used or purchased. This is one successful observed workflow, not a controlled comparison or proof of general research superiority.
 
 ## Limits
 

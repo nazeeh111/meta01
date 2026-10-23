@@ -23,7 +23,7 @@ https://github.com/nazeeh111/meta01/tree/main/skills/01
 
 CLI/IDE users can explicitly invoke `$skill-installer` with that URL. In the desktop app, use the installer from the **@** picker when available.
 
-If you already have a skill named `01`, inspect and update that copy instead of installing a duplicate. Preserve your local customizations. Start a new Codex chat after installation, then select **@01** in the desktop app or use `$01` in CLI/IDE.
+If you already have a skill named `01`, inspect and update that copy instead of installing a duplicate. Preserve your local customizations. The skill will be available on your next turn. Select **01** from the desktop **@** picker or use `$01` in CLI/IDE.
 
 The package contains Markdown instructions and invocation metadata. It requires no additional package, account, API, background process or configuration framework. Capabilities come from your existing Codex environment; relevant specialist skills remain optional.
 
