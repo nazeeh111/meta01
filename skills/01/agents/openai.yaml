@@ -1,0 +1,5 @@
+interface:
+  display_name: "01"
+  short_description: "Adapt tools and specialist work to the task"
+policy:
+  allow_implicit_invocation: false
