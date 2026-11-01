@@ -1,8 +1,8 @@
-# meta01
+# Meta01
 
 **Adaptive execution for Codex.** One invocation. The capabilities your task needs.
 
-**meta01** is a compact, explicit-only Codex skill installed as **01**. It asks Codex to select useful tools and specialist workflows, adapt when evidence changes, and carry the authorized task through delivery. You describe the outcome; you do not need to remember a stack of skill names.
+**Meta01** is a compact, explicit-only Codex skill installed as **01**. It asks Codex to select useful tools and specialist workflows, adapt when evidence changes, and carry the authorized task through delivery. You describe the outcome; you do not need to remember a stack of skill names.
 
 In Codex CLI or the IDE extension:
 
@@ -59,7 +59,7 @@ Explicit invocation keeps this execution preference out of ordinary requests. Th
 
 The runtime skill is one small file plus `agents/openai.yaml`. It is self-contained, so installing it does not require another discovery skill. Research and validation stay outside the runtime instructions.
 
-[Design evidence and validation](docs/evidence.md) records the research basis, actual checks and limits. Existing studies evaluate other tasks, models and skill types. They do not establish that meta01 outperforms ordinary Codex, and this project makes no measured performance-multiplier claim.
+[Design evidence and validation](docs/evidence.md) records the research basis, actual checks and limits. Existing studies evaluate other tasks, models and skill types. They do not establish that Meta01 outperforms ordinary Codex, and this project makes no measured performance-multiplier claim.
 
 To improve it, bring a concrete request, the observed outcome and the relevant artifact or check. A shorter prompt, longer checklist or larger team is useful only when it improves the work.
 
